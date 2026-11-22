@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Formgram</string>
+
+    <!-- Navigation -->
+    <string name="nav_feed">Feed</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_create">Compose</string>
+    <string name="nav_gallery">Archive</string>
+
+    <!-- Top bar & actions -->
+    <string name="cd_haptic_settings">Haptic and scroll settings</string>
+    <string name="cd_saved_shortcuts">Open saved archive</string>
+    <string name="cd_like_post">Appreciate form</string>
+    <string name="cd_unlike_post">Remove appreciation</string>
+    <string name="cd_comment_post">Open appreciation notes</string>
+    <string name="cd_share_post">Share form appreciation</string>
+    <string name="cd_save_post">Save to archive</string>
+    <string name="cd_unsave_post">Remove from archive</string>
+    <string name="cd_post_more">More form details</string>
+    <string name="cd_verified_form">Verified pure form</string>
+    <string name="cd_close">Close</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_send_note">Post appreciation note</string>
+
+    <!-- Filters -->
+    <string name="filter_all">All</string>
+    <string name="filter_shapes">Shapes</string>
+    <string name="filter_letters">Letters</string>
+    <string name="filter_digits">0–9</string>
+
+    <!-- Haptic sheet -->
+    <string name="haptics_sheet_title">Scroll &amp; Haptics</string>
+    <string name="haptics_sheet_subtitle">Fine-tune the tactile rhythm as forms glide past.</string>
+    <string name="haptics_mode_label">Haptic Detent Feel</string>
+    <string name="haptics_mode_crisp">Crisp Detent</string>
+    <string name="haptics_mode_soft">Soft Tick</string>
+    <string name="haptics_mode_heavy">Heavy Click</string>
+    <string name="haptics_mode_off">Silent (Off)</string>
+    <string name="haptics_snap_title">Magnetic Post Snap</string>
+    <string name="haptics_snap_subtitle">Gently settles each post into center frame on release.</string>
+    <string name="haptics_scroll_tick_title">Micro Scroll Ticks</string>
+    <string name="haptics_scroll_tick_subtitle">Subtle mechanical ticks while scrubbing through posts.</string>
+    <string name="haptics_test_button">Feel Sample Pulse</string>
+
+    <!-- Comments / Notes Sheet -->
+    <string name="notes_title">Appreciation Notes</string>
+    <string name="notes_placeholder">Leave a quiet observation…</string>
+    <string name="notes_empty">Be the first to admire this form.</string>
+
+    <!-- Compose Studio -->
+    <string name="studio_title">Exhibit a Form</string>
+    <string name="studio_subtitle">Publish a single shape, letter, or digit (0–9) to your feed.</string>
+    <string name="studio_kind_shape">Shape</string>
+    <string name="studio_kind_letter">Letter</string>
+    <string name="studio_kind_digit">Digit (0–9)</string>
+    <string name="studio_palette_label">Gallery Palette</string>
+    <string name="studio_finish_label">Surface Style</string>
+    <string name="studio_caption_label">Appreciation Note</string>
+    <string name="studio_caption_hint">Write a quiet caption…</string>
+    <string name="studio_publish_button">Post to Feed</string>
+    <string name="studio_published_toast">Posted to the top of your feed</string>
+
+    <!-- Archive / Profile -->
+    <string name="profile_handle">appreciator</string>
+    <string name="profile_name">Quiet Observer</string>
+    <string name="profile_bio">Slowly scrolling through pure geometry, single letters, and digits strictly below ten.</string>
+    <string name="profile_stat_scrolled">Observed</string>
+    <string name="profile_stat_liked">Appreciated</string>
+    <string name="profile_stat_saved">Saved</string>
+    <string name="profile_tab_saved">Saved</string>
+    <string name="profile_tab_liked">Liked</string>
+    <string name="profile_tab_created">Exhibits</string>
+    <string name="profile_empty_saved">Bookmark any shape, letter, or digit to curate your personal collection.</string>
+    <string name="profile_empty_liked">Double-tap any form in the feed to show quiet appreciation.</string>
+    <string name="profile_empty_created">Use the Compose tab to exhibit your own shape, letter, or single digit.</string>
+
+    <!-- Explore -->
+    <string name="explore_title">Explore Forms</string>
+    <string name="explore_subtitle">Infinite index of basic geometry, single letters &amp; digits 0–9</string>
+
+    <!-- Story Viewer -->
+    <string name="story_reply_hint">Appreciating quietly…</string>
+    <string name="story_appreciated">Appreciated</string>
+
+    <!-- Detail Dialog -->
+    <string name="detail_title">Form Inspection</string>
+    <string name="detail_done">Done</string>
+</resources>
